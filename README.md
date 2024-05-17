@@ -1,4 +1,4 @@
-# Examples for this CNN
+<h1 align="center">Examples for this CNN</h1>
 <p align="center">
   <img src="https://github.com/zuzannabrauer/opCNN/assets/117740588/ff996ddc-676e-4d23-b1ac-a8c1a2bd3051">
 </p>
