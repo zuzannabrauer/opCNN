@@ -1,5 +1,5 @@
-<h3>Examples for this CNN</h3>
-![image](https://github.com/zuzannabrauer/opCNN/assets/117740588/0f1740b2-0722-4956-87c0-226152e1fa3f)
+# Examples for this CNN
+![image](https://github.com/zuzannabrauer/opCNN/assets/117740588/ff996ddc-676e-4d23-b1ac-a8c1a2bd3051)
 <br>
-![image](https://github.com/zuzannabrauer/opCNN/assets/117740588/689ff570-cb6f-4ea2-bfe5-9462d86a9503)
+![image](https://github.com/zuzannabrauer/opCNN/assets/117740588/4bcfdc86-9561-4533-abb0-83ced0f8213c)
 
